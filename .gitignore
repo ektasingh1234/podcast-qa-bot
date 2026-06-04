@@ -1,0 +1,5 @@
+.history/
+.gradio/
+__pycache__/
+*.pyc
+.env
